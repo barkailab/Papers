@@ -1,0 +1,8 @@
+This archives contains the Matlab codes used to analyse the data and generate the figures presented in our 
+Genome Research Paper "Rtt109 promotes nucleosome replacement ahead of the replicating fork" (DOI:10.1101/gr.276674.122).
+The two mains scripts to generate the figures are "FiguresRevision.m" and "FiguresNucs.m", the other files contain helper functions called inside the scripts.
+While the scripts and the sequencing data provided at GSE193044 should be sufficient to retrace all analysis, we recommend to download the preprocessed data from Mendeley Data 
+(10.17632/svd96gjh6d.1). We hope that the documentation provided in the scripts is sufficent for understanding but are happy to answer any questions via the GitHub page: 
+https://github.com/barkailab/Jonas2022/.
+Finally, we want to thank you for your interest in our research and wish you great pleasure exploring our data.
+Felix

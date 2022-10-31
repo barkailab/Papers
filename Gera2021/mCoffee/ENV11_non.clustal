@@ -1,0 +1,584 @@
+CLUSTAL W (1.83) multiple sequence alignment
+
+Ndai_VID22        ---MNNHNNNNNL-HGDNQQINNARGLVLPPMHHMNGAQSPLFGNPNQQQ
+Ncas_VID22        ---MLSTPGSE------------HAAVTLTS-------------------
+Knag_VID22        ---MHSYSFTE------------SGSCNFGN-------------------
+Kfar_VID22        ---MDQQNQS--------------DGLILPPIHNSNDQLDNYPGKKS--S
+Suva_VID22        ---METQVQG------------ADRGLVLPPMN-SA------VSTAT---
+Skud_VID22        ---MDTQVQS------------ADRGLVLPPMS-ST------ASTAT---
+Scer_VID22        MRAMDTQVQS------------AERGLVLPPMN-ST------VSSAT---
+Lklu_VID22xENV11  ---MPVHPSTTD----------NNVELILSTMYSPAIRNHNTSGPTT---
+Ecym_VID22xENV11  ---MVQQSPT----------------------------------------
+Egos_VID22xENV11  ---MAQDTRG--HGP-----------G-----------------------
+Scer_ENV11        ---MNTALDDL------------HGDLVTLEDNE-I----------I---
+Smik_ENV11        ---MNTALHDL------------HGDLATLEDNN-I----------I---
+Skud_ENV11        ---MNTALNDL------------HNDLVILEDNG-I----------I---
+Suva_ENV11        ---MNTALGDL------------HEELVTLEDNE-I----------I---
+Kfar_ENV11        ---MDPDTSA--------------GG-SLQNTTPRA----------T---
+Knag_ENV11        ---MDPRVVLQ------------LEGEVGF--------------------
+Ncas_ENV11        ---MNSNNQNM-----------TNRGLVLPPLN-GNAANDGGNGNGN---
+Ndai_ENV11        ---MLSSHDST------------EDPAGYSETLP-S-------ATED---
+                     *                                              
+
+Ndai_VID22        QRVSTNTATHSTTHSHLDNSLNVQVHDAATPPVPTPINTAFYANAQNTPS
+Ncas_VID22        -------SF------------PSANAIP----------------------
+Knag_VID22        -------ES------------SGHLNLP----------------------
+Kfar_VID22        G---NNSTNTGVAIDPMAEIINDGVHQW----------------------
+Suva_VID22        -------AA-----------------------------------------
+Skud_VID22        -------AA-----------------------------------------
+Scer_VID22        -------AA-----------------------------------------
+Lklu_VID22xENV11  -----NTIT----------------ND-----------------------
+Ecym_VID22xENV11  --------------------------------------------------
+Egos_VID22xENV11  --------------------------------------------------
+Scer_ENV11        -------NN------------SD---------------------------
+Smik_ENV11        -------DT------------SNH--------------------------
+Skud_ENV11        -------DT------------PDN--------------------------
+Suva_ENV11        -------DT------------PEH--------------------------
+Kfar_ENV11        -------VL------------DRGLGDH----------------------
+Knag_ENV11        --------------------------------------------------
+Ncas_ENV11        -----GNAANIRNIARANDGTNVTVEDT----------------------
+Ndai_ENV11        -------AT------------DKEENQP----------------------
+                                                                    
+
+Ndai_VID22        IGSLLGQPRYPMVPSHPSNTTNVVSSSISHQMTSSVHTHVNQMDTLDQNN
+Ncas_VID22        ------------------------------------------S-------
+Knag_VID22        ------------------------------------------E-------
+Kfar_VID22        ---------------------------------------V-PIHLLNKNR
+Suva_VID22        --------------------------------------------------
+Skud_VID22        --------------------------------------------------
+Scer_VID22        --------------------------------------------------
+Lklu_VID22xENV11  -----------------------------------------SLVPANSTR
+Ecym_VID22xENV11  --------------------------------------------------
+Egos_VID22xENV11  --------------------------------------------------
+Scer_ENV11        --------------------------------------------------
+Smik_ENV11        --------------------------------------------------
+Skud_ENV11        --------------------------------------------------
+Suva_ENV11        --------------------------------------------------
+Kfar_ENV11        ------------------------------------------E-------
+Knag_ENV11        --------------------------------------------------
+Ncas_ENV11        -----------------TNSSNYYEANVSVEQSTVVDERS-TVDTLVQRA
+Ndai_ENV11        ------------------------------------------S-------
+                                                                    
+
+Ndai_VID22        YNHMNINMDIMNDHHHHHSSNTNASHNND----AT----------IRDAD
+Ncas_VID22        ----------------------YIQSTL-S------MGNGDVNNV-----
+Knag_VID22        ----------------------RARSSI-SWNLRRKVGRKTVSKC-----
+Kfar_VID22        IDPS---VNYYGTNFPHGRSPSSSNEFHE------------------DDD
+Suva_VID22        ---------------------------TT----AT----------NTDTD
+Skud_VID22        ---------------------------TM----AT----------NIDTD
+Scer_VID22        ---------------------------TT----AT----------NTDTD
+Lklu_VID22xENV11  ----------------------------F----PA----------SSHDD
+Ecym_VID22xENV11  ------------------------------------------------HS
+Egos_VID22xENV11  ------------------------------------------------TG
+Scer_ENV11        ----------------------------HS---SS----------H-STS
+Smik_ENV11        --------------------------SIHS---SS----------E-FTS
+Skud_ENV11        --------------------------SNHS---SP----------R-STT
+Suva_ENV11        --------------------------STHS---SP----------Q-SSS
+Kfar_ENV11        ----------------------GSNNDDSL-LQ--DNHNGDMLFSS-GNI
+Knag_ENV11        ------------------------------------------------R-
+Ncas_ENV11        FDNATT----------HNSAVTANLVGHH----PA----------VTDED
+Ndai_ENV11        ----------------------ITDTSI-ELPIENIGHNDHVLNS-----
+                                                                    
+
+Ndai_VID22        LESDDDYNDEDDDDDDEEEEEEEEEVEEYGEEAHTSTTKNKKKNNKKKKD
+Ncas_VID22        ----------AN-N------------------------------------
+Knag_VID22        ----------ND-R------------------------------------
+Kfar_VID22        QDDEVM-----VEDEDENDDEEE---------------------------
+Suva_VID22        TDGDEE----------EEEEEEEE--------------------------
+Skud_VID22        TDGDGD----------EDGEAV----------------------------
+Scer_VID22        TDGDRD----------EERES-----------------------------
+Lklu_VID22xENV11  TDE-------EPDDEEEDDEDDENTMANTTV-------------------
+Ecym_VID22xENV11  ---GEG--------------------------------------------
+Egos_VID22xENV11  ---RER--------------------------------------------
+Scer_ENV11        ---HEEE-DEEEDD------------------------------------
+Smik_ENV11        ---HEED-EDEDEDE-EDEDEE----D-----------------------
+Skud_ENV11        ---DEEE-EEEGEEE-EDG-------------------------------
+Suva_ENV11        ---HGEE-EHEEDG------------------------------------
+Kfar_ENV11        ---E--I-TELN-A------------------------------------
+Knag_ENV11        ----------------LVR-------------------------------
+Ncas_ENV11        LDTDETFGETEREDEEEDEEADGRAAEEEEED-----DDDDDDDNDLDDE
+Ndai_ENV11        ----VDN-------------------------------------------
+                                                                    
+
+Ndai_VID22        AAAASAAQEPLDERD-------KVDPKTEMVHDGEHTWVPFHLVSKLKDR
+Ncas_VID22        -----NTNNKSRSR-----YVIGDDKYGEIITVNGIKWIPIYLLA--KKH
+Knag_VID22        -----SPKSPSSSRYD---SGNKQHWKSEVLFEDGQKWIPIQLFK--KYT
+Kfar_VID22        ---------E-------------------EEEEEEEEQIPEDENTNNNQT
+Suva_VID22        -------EEP-------------------LVEDGGVEWVPAYMLT--REK
+Skud_VID22        ---------R-------------------LAEEGGVDWVPAHMLT--RDK
+Scer_VID22        -----------------------------LAED-GSEWVPAYMLT--RDR
+Lklu_VID22xENV11  ---NAPSEQG-------------------NSDEGCVEWVPVHHRK--KNR
+Ecym_VID22xENV11  -----TEWIGVHAQ-----DPEQL-ELFEQMVDKHLPWIPIHRVR--KNR
+Egos_VID22xENV11  -----AEWIGMQAQ-----DPEQV-AHFGRLIDRHLPWIPIHRVR--KNR
+Scer_ENV11        -----TEDIELIEKDGNKILSSRIHPEDEIINDGLNIWIPVQMLK--KNI
+Smik_ENV11        ----ITEDVELIEKNSNKNILRRIHPEDEIVNDGSSIWIPIQMLK--KNI
+Skud_ENV11        -----AEDVELTEKYDDKSLLTGIQPEDEIVNDGINIWIPVQLLK--KNI
+Suva_ENV11        -----IEDVEAIEKDGSKFLPTSMHSEDEIINDGLNIWIPVQMLK--KNI
+Kfar_ENV11        -----DPAIPH-ST-----VQDGSENNIEMIIEGGKKWLPIYLLS--SSH
+Knag_ENV11        ------------------------GPQWGMETRCVDGWVPVQSLR--RTR
+Ncas_ENV11        ADADGNYTQGITE----------IDPETEIVVDGNKRWIPIHLLR--KNR
+Ndai_ENV11        -----TSDNDL-----NANVEENDITFAVTEHDGNTKWVPAQTLK--KTN
+                                                        :*          
+
+Ndai_VID22        IDPTVSFYAEKGAASLPPKVRKPYTKHPRDDSNRRSTPKRAKKNAQK--T
+Ncas_VID22        LSFRVDYYKEFA-------------------------------NTIQP-D
+Knag_VID22        NDATVSYYHKF--------------------------------NGTSIAD
+Kfar_VID22        IKSLENDYEDD---------------------------------------
+Suva_VID22        IDPNANYYGGWS------------------------------NADAG--A
+Skud_VID22        IDPNGNYYGEWA------------------------------GAEAG--A
+Scer_VID22        IDPNANYYSGWT------------------------------GVEAG--S
+Lklu_VID22xENV11  IDPNSDYYAGTT---------------------------------LLP-P
+Ecym_VID22xENV11  IDPNSDYYMGPC---------------------------------LLPTA
+Egos_VID22xENV11  IDPNSDYYTGAS---------------------------------LLPIA
+Scer_ENV11        ISANKNFYSMNF--------------------------------TVGDSN
+Smik_ENV11        ISANKNFYSMNF--------------------------------KVGDA-
+Skud_ENV11        VSANKSFYSMNF--------------------------------TAKDSI
+Suva_ENV11        ISANKNFYSMNF--------------------------------TARNSI
+Kfar_ENV11        KTVTSNYYSTN--------------------------------STKLPYK
+Knag_ENV11        VAAETVYTPPSS--------------------------------AAT--S
+Ncas_ENV11        INPNESFYKKT-----------PFPARRSHRQDQHSHHEQRQGQGDD--D
+Ndai_ENV11        VTPNMSFYDEEN--------------------------------ILDNNV
+                                                                    
+
+Ndai_VID22        ---------A-----------------NLTRPSYK----QGGPT------
+Ncas_VID22        H----HEQLQ-QQQ----------SPNAHLKRTL-------DRSTYHI--
+Knag_VID22        L----SVPT--SK-------------ITQPRCRY-------RNFTIET--
+Kfar_VID22        ------------------------------------------EG------
+Suva_VID22        ---------T-----------------SMTRPPLK---------------
+Skud_VID22        ---------T-----------------FMARPPLK---------------
+Scer_VID22        ---------T-----------------FMVRPPLK---------------
+Lklu_VID22xENV11  ---------T-----------------S-TRPVGR---------------
+Ecym_VID22xENV11  VRAPAQGGNNNSNSNRHNNNNNSNA--SLSAAAVTETAAASASASLSS--
+Egos_VID22xENV11  AGGGAEEG------------------------------------------
+Scer_ENV11        L----KNNT--SST----------E--ITRRHGY-------DSLTFNS--
+Smik_ENV11        I----KNNT--SHL----------G--NALKPSY-------DSLTYSS--
+Skud_ENV11        L----KNNN--SHV----------E--NADKPSY-------NSLAFNS--
+Suva_ENV11        L----KGSN--SHA----------R--SSLQPSY-------RSLTFNS--
+Kfar_ENV11        I----QKRN--GRK----------LILSPIDNLE-------SYFIFQRRK
+Knag_ENV11        ---------T-----------------SSIKSRLR---------------
+Ncas_ENV11        ---------A-----------------HLSRPSFR-------PE------
+Ndai_ENV11        T----KNLH--SRE-------------STLDDVSS----TFDSQLFKRR-
+                                                                    
+
+Ndai_VID22        ----TGDEEFNDAMGS--S---------------L---------------
+Ncas_VID22        -------------------------------------------------N
+Knag_VID22        -------------------------------------------------R
+Kfar_VID22        ----IEDEDIDNDNGK--NQQNKLKNVNLKPLQSFSRSYYGGDHSDDDEN
+Suva_VID22        -----------NHQGG--V---------------S---------------
+Skud_VID22        -----------NHQGG--G-------------------------------
+Scer_VID22        -----------NHQGG--S-------------------------------
+Lklu_VID22xENV11  -----------PKGST--L---------------A---------------
+Ecym_VID22xENV11  ---------PSSFSSD----------------------------------
+Egos_VID22xENV11  --------------------------------------------------
+Scer_ENV11        --------------------------------------------------
+Smik_ENV11        --------------------------------------------------
+Skud_ENV11        --------------------------------------------------
+Suva_ENV11        --------------------------------------------------
+Kfar_ENV11        TTGPVGHLNFLQDIH-DDK-------------------V----------L
+Knag_ENV11        -----------V--AS--T-------------------------------
+Ncas_ENV11        ----RSVSDFNNFMGT--S---------------L---------------
+Ndai_ENV11        --KYIKK---PKTLPPFT--------------------L----------D
+                                                                    
+
+Ndai_VID22        -----SEFIQGERNETEAATNEYVHTLTMRASKNNRKISKII--S---TN
+Ncas_VID22        -EF----IV-----P--A--------------------KKQTQLT---F-
+Knag_VID22        -KI----DK-----L--I-----------TDDIEE--LCYME--N---E-
+Kfar_VID22        QLNGMNSLID--------------------HVKST--TRLPT--D---L-
+Suva_VID22        -----N-------T---A-----------TSSIAN--LLEID--E-----
+Skud_VID22        -------------T---T-----------TSSIAN--LLDID--E-----
+Scer_VID22        -------------A---T-----------TNSIAN--LLEID--E-----
+Lklu_VID22xENV11  ----SNTSL--------------------NSRVIS--RPNTS--A---L-
+Ecym_VID22xENV11  -----SSVS--------------------APSRRP--VHSGR-P----F-
+Egos_VID22xENV11  --------------------------------------------------
+Scer_ENV11        -----------------------------DQ-----------SF------
+Smik_ENV11        -----------------------------NS-----------SF------
+Skud_ENV11        -----------------------------HP-----------TL------
+Suva_ENV11        -----------------------------NS-----------SR------
+Kfar_ENV11        YGDGLADLR--------------------KDVVGT--IKRGN--N---D-
+Knag_ENV11        -----------------------------TQ--HAEVYKRGK--STATT-
+Ncas_ENV11        -----INFVNSNSIITNPST------ITTQNHMNNGDITSIT--E---N-
+Ndai_ENV11        -M---------------------------SKEITK--LK-PR--D---V-
+                                                                    
+
+Ndai_VID22        PFDPLRMASE-RQLNFPTNQLLSIIIASENLPLNFVENTSVKMLLSRIPG
+Ncas_VID22        --KQREKLANR-IANFPNGMLVALIMATENLPLHIINNSAFRVLLSALPK
+Knag_VID22        --NAPD--------LVKSESIISILFASQNIPSSVVDNPAFVSLLKRIPK
+Kfar_VID22        --ETINRANE-RELSFPTSKLLAIIIASENLSLSFGNNSVIRMLLSKNS-
+Suva_VID22        --DLLKRTRE-REMALPLVQSLAIIIASENLPLSFVDNSAVRLLINQNAS
+Skud_VID22        --DLLKRTRE-REMALPLVQSLAIIIASENLPLSFVDNTAVRLLINQNTN
+Scer_VID22        --DFLKRTRE-KEMALPLVQSLAIIIASENLPLSFVDNTAVRLLINQNAN
+Lklu_VID22xENV11  --GSLHVGPA-RESNIDTKDLISIICASQDLPLSFFDNASVRLLLQRALN
+Ecym_VID22xENV11  --KVENPGRER-RTVLRTELLLGIMTASQDLRQRFFDNDVVKELLARLSD
+Egos_VID22xENV11  ----GRPARER-RTVLRTELLLGIITAAQDLRAEFFENSVVKELLARLSA
+Scer_ENV11        --KCFDIGKLQSSNYLSISQLVAIVIASENLPLNFFENVSFKSLLSKFHR
+Smik_ENV11        --KNYEMGKSQSINSLSFSQLIAILIASENLPLNFFEKESFKFLLSKFQR
+Skud_ENV11        --RHFDIGKLQSNNSFSFSQLIAIIIASEDLPLNFFENESFKFLISKFHR
+Suva_ENV11        --KYYGISKLQNNTFLSFSQLIAIIIASEGLPLNFPEIESFKFLMSKFRK
+Kfar_ENV11        --DEHDSNSTQ-TEKISKELLFTSLIVNENLPLSFSFNPMFQLLIKDNIQ
+Knag_ENV11        --PTQEQVLP-LEDDPSTSQLLAVIVASENLPITFVSDPAMQALLGRISP
+Ncas_ENV11        --QAARMSNE-RLLSFSTNQLLSIIIASENLPLSFVENSSVKLLLSRVPG
+Ndai_ENV11        --PSETTIKTR-QHFFPSNNLLAIVVASENLPLDFANNSALKLLMSSILT
+                                       .  : . :.:   .     .  *:     
+
+Ndai_VID22        NY-K-PDQLLIKQSIINISNMIDQIIARTVGRNNTDLSLCLSTQNLNIDP
+Ncas_VID22        TINK-MEPQVIKSNIVELAKSIDEMLHRYLVHAQEQLPIQLNLNALL---
+Knag_VID22        CW-P-MTPIQVRSIALKLSEKFEHMMERCIFDFS---PIELEPTYLH---
+Kfar_VID22        FY-N-SNPIIIKESILLLSYQIDDMIKRTTARSSSDSQLIIDLNSLS---
+Suva_VID22        SL-SFIDHDLILNTIRSIAYNLDRIIQRTALRNNSDLSLIIDKNYL----
+Skud_VID22        SL-SFIDHDLIVSTIRSIAYNLDRIVQRTALRNNADLSLIIDKNYL----
+Scer_VID22        SL-SFIDHDLILNAIRSIAYNLDRIIQRTALRNNSDLSLIIDKNYL----
+Lklu_VID22xENV11  NT-T-IDPELVKESIIKTSKNIEHMVKRTVLRNCNDLPVEIHITAH----
+Ecym_VID22xENV11  F-----DTLDLPAAISHTAQDIDDIICRTIVCNDRHMAQRFVVNGSM---
+Egos_VID22xENV11  F-----ETLDLPAAIAQTARDIDEIVLRTVRFNERHEGARFEVRPGT---
+Scer_ENV11        IP-P-LTTNIIEESIIGLSKSIDELIRRSISRNDTQLPFTIHLSDSK---
+Smik_ENV11        IP-P-LTINMIKESIVGLSKSIDELIKRSLSKNGTYFPFSIHLSDTK---
+Skud_ENV11        PP-S-LTPSVIKEAIVELSNSIDDLVRRSVPENGLHLPFNIHLSNPE---
+Suva_ENV11        TP-S-LTTNLIKESIVELSNSIDELIRRSTPKRDSSLPVKIQLSNTK---
+Kfar_ENV11        KNEP-PSRNVIEKTIRSLTKSITRMVNDELRNSNLSFPLKLDLGKYG---
+Knag_ENV11        LY-Q-PQQQDILDLVWATAEQISQLVCRTARRNSADLQLVLST-------
+Ncas_ENV11        SY-N-PDPKIIHDSINRISNAIDEMITRTVFRNNADMSLIISNTNF----
+Ndai_ENV11        SL-P-TSPDSIRENIIGMATSINKMIRKSSIQNDYHLPFELDISHLR---
+                            :       :  :  ::              :         
+
+Ndai_VID22        SLQIV--RNGGEEDDLYDSEIQSAMLQRLRSFLDSMSTVNFFSLSNYVWN
+Ncas_VID22        ---S---RQDG---------KSQAIEKLLTTSFILLLNIPLFSLNYQVWD
+Knag_VID22        -------PKNSN--------LLATVKKTLEANLLLLYKTPIISLSCQVWN
+Kfar_VID22        ---QN--NNNERSK---------QLLNKIKSHLFELNNAMFFSLANSTWN
+Suva_VID22        L---L--DPTERSN---------QLTNRLKNQLFEMQKINFFSLSHSIWN
+Skud_VID22        L---L--DPAERSD---------QLSNRLKNQLFEMQKINFFSLSHSVWN
+Scer_VID22        L---M--DPTDRSN---------QLSNRLKNQLFEMQKINFFSLSHSVWN
+Lklu_VID22xENV11  -------NT-ITRE---------QIKEQLRLKISELSNVMFFSLTQHTWK
+Ecym_VID22xENV11  --------------------PMHAVKLQISERMHTLSQMTFFAVSYRHWV
+Egos_VID22xENV11  --------------------PAYALKLEVAERVHVLSQVTFFALSFRRWA
+Scer_ENV11        ---ES----NQP--------LYLKYSREIRAQLSNLDLSHLISVNFTELA
+Smik_ENV11        ---ES----DQP--------AYLQYMKDIRVQLSGLDLASLVSVNLTRLD
+Skud_ENV11        ---KS----DGS--------VYSQYLKDIRMQLHSLDLSSLASVNFTELD
+Suva_ENV11        ---ES----DFP--------DYIKYTEDIRKQLTSLDLSLPVSLNFTELD
+Kfar_ENV11        ---DTVGDWQKM-------HENELLMTEMKELFLKLFKSNLFTANQAIYG
+Knag_ENV11        ----I--PPVQA--------------GEISAYLYNLEDVTFFALTSHEWY
+Ncas_ENV11        SQQNS--DPTSQSDEEVRNNQNVELIQKLGLFLNEMSKINFFSFSHCIWN
+Ndai_ENV11        ---ND----LIG-T-----ERKLLLCTLIMNGLKDLPSFNFYSLSHQIWN
+                                              :   .  :      :       
+
+Ndai_VID22        NN----ISLLSLQFFDEVSSSMKILPLITTKSGQTNSDLSNI-SLRTQLN
+Ncas_VID22        KK----HLLISLQSLNEKTMSLFTFPIFVRDLG--GEPARLDR-IKAHVE
+Knag_VID22        DR----YSVLSAQFFDHINNTQKTLPLELRLLR-EHKPNPG-TKQRPEIA
+Kfar_VID22        KN----ISILSLQFFDQFSNSVKSIPLTVDKIT-SNSLLSQV-TVRSQLL
+Suva_VID22        NI----TSILSIQYYDDFHSQVKILPLIIQNL-HEFDNDPKL-SIPAQLF
+Skud_VID22        NT----ISILSIQYYDDIHSQVKTLPLTIQNL-KELNDDPKL-SIPAQLF
+Scer_VID22        NT----ISILSIQYYDDFHSQVKTLPLIIQNL-HEYNNDPKL-SIPAQLL
+Lklu_VID22xENV11  RSHGSPISTVSLQFYDSIKKKQKQILITVKRL-G---ENNVV-SLRREIL
+Ecym_VID22xENV11  VP---DISAWGLTFCDPLEFRQYCIVADVAAG--------GD-GAAAGME
+Egos_VID22xENV11  AT---GIWTWFLNFYDPNEGRQYSLVVDAGAS------SGAG-GAPPEEH
+Scer_ENV11        GK----RSLFSLQLFDNTNKVSKGLPLSIFVRK--TTDIDIS-VWQEQLN
+Smik_ENV11        ET----RLLFSLQLFDNVNKVSKILPLSILTRK--TTDIDTS-VWQEQLN
+Skud_ENV11        KT----RSLFSLQVFDNNNKVSKILPLSIIVRK--TTDIDSH-SWQKWLN
+Suva_ENV11        TI----RSLFSLQVFDNTNKVSKILPLSIFVRK--TADIDIN-AWEDQLN
+Kfar_ENV11        KD----LLVTSVQFHDSESNSNKVLPISIHKLN-SVVSTHE-NSIEKFIE
+Knag_ENV11        TRDH-STSLVTLQFWDSIDHRVKTLPVSLHRSP-GVAPLSTE-TLREQLR
+Ncas_ENV11        KN----TSLLSLQFYDEISSTMKILPLLTSRS-KDESDTTSV-SLRTQLN
+Ndai_ENV11        QQ----YSLISIQFIDYVNSKLRILPISIEDMG--NKPITPK-LLNRQLY
+                                 :        :                         
+
+Ndai_VID22        K-AFR-AIPGLP---RSVLSITLPREKLLDNIHVNDQSF-----------
+Ncas_VID22        V-ITR-GMPGLD---NSLLAVTLPNNDALEAIQHSEET------------
+Knag_VID22        DFVIE-NILRLK---SPVISLITPNYTLSRSIKLSPKL------------
+Kfar_VID22        K-TYQ-NVPGLQ---NSILSITLPQDKINNLLQLDDQ-E-----------
+Suva_VID22        K-ISQ-ELPGLQ---NTVISMTLPRPQLIDLLNVMDSQP-----------
+Skud_VID22        K-ISQ-ELPGLQ---NTVISMTLPRSQLIDLLNVMDSQP-----------
+Scer_VID22        K-ISQ-ELPGLQ---NTVISITLPRSQIVDLLNVMDSQP-----------
+Lklu_VID22xENV11  D-IFT-RFPGLD---QSLLSFTTPRSNFQQLLLNDE-HP-----------
+Ecym_VID22xENV11  Q-LRA-RYPGLG---RYLVSYMEPQPQPQGGPPAG---------------
+Egos_VID22xENV11  T-VQL-QYPGVG---RYIVSYMATGEEAP---------------------
+Scer_ENV11        N-LYS-KYPGLQ---KSVISITLPQSHYTMVLENRNSH------------
+Smik_ENV11        D-LYS-KYPGLK---KSIISINLPQNRFGKVLENGNSN------------
+Skud_ENV11        S-VYS-KYPGLQ---KSVISLTLPKSYYAKVLEKRNSG------------
+Suva_ENV11        I-IYS-EFPGLQ---ESVIALTLPKNYYTKVLENGN-R------------
+Kfar_ENV11        -SKLSEALFGKGNMISPGISVTLANNLFTSDVESSMNS------------
+Knag_ENV11        R-TEK-DIPGII---RSTLGVTCPQPKL----LFNRDNV-----------
+Ncas_ENV11        T-VFR-TIPGLY---KTVLSATLPRSKITDMLNVDD--F-----------
+Ndai_ENV11        N-VIS-KYPGLT---NSLLSISAPRKICDTLKSADPIPNEFGKRGYDHTE
+                                    :.   .                          
+
+Ndai_VID22        --FQ--------------------DEGFTNPKNFYHNCIVTILVDAIIPL
+Ncas_VID22        -NLFDNYRNFEDTH--SY--DLMRMEKLEREKDKYHICMTSILLACLTPF
+Knag_VID22        -HLDDTHSML-----------------------DIRTCSLQDLLTLLSGI
+Kfar_VID22        --FF--------------------PN-FKNPKDFYHICMISSLKNAILPF
+Suva_VID22        --FF--------------------PNSYTNAKNYYHNCIISIINSAMLPL
+Skud_VID22        --FF--------------------PNTYTNAKNYYHNCIISIINSAILPL
+Scer_VID22        --FF--------------------PNTYTNAKNYYHNCIISIINSAILPL
+Lklu_VID22xENV11  --FF-K------------------HR-------NFHGCVVTMLKTAILPL
+Ecym_VID22xENV11  -----RAT--------------------GGGGSAGNVCAVTELHRCFSQI
+Egos_VID22xENV11  --------------------------------ESWNPCIVAELQRSFALL
+Scer_ENV11        -NFTFHSGS--------------------VREIKYHTCIVSELLHCFLQP
+Smik_ENV11        -NSTSYTRS--------------------ARKITYHTCIVTELLHCFLQP
+Skud_ENV11        -NPSINAGN--------------------VVQVTYHICIVSELLHCFLQP
+Suva_ENV11        -KSTSDTKS--------------------LKPITYHACIVSELLHCFLQP
+Kfar_ENV11        -AYMAKS-----------------------SKVAFRRCITNVLVNSVGPF
+Knag_ENV11        ---F--------------------EETS-TGTPEFHPCVITMLAECARAL
+Ncas_ENV11        --FL--------------------GTNDLNPKNFYHNCIVTILTDAITPL
+Ndai_ENV11        NSVIHNYDDGEEEEEHAEQEIINSVIENAIQNLHYQPCIVSALEDCVTVF
+                                                     . *    :       
+
+Ndai_VID22        FGTKK-------------TSNQDTPNQRSNGFHNDH-F-S--S--SPLDS
+Ncas_VID22        FGLEMRD--ISLQDT-S----------I-MDSTILP-T-L-TEEEKYLDS
+Knag_VID22        FGYQ--N--SF------------------GSS-ASQ-K-G-RKGDNIIDS
+Kfar_VID22        FGHCDTD--P-IES--T---------SS--KFNNQN-L-PYDKENEILDS
+Suva_VID22        FGTSKST--D-IKY--PA--------PS--S-TKEP-L-N------LLDS
+Skud_VID22        FGTPKSA--D-ITH--SA--------QS--SSAKGP-F-T------LLDS
+Scer_VID22        FGTPKSA--D-ITH--PR--------QS--SFSKEP-L-T------LLDS
+Lklu_VID22xENV11  FGHFDAN--V-GHS--S---------LN--THSHLSDNYRSVDENAQLDN
+Ecym_VID22xENV11  FGEDVAR--G-AHVTEG--GSCAGGGLG--GSSAGA-S-GNVAGSAAADT
+Egos_VID22xENV11  FGEPLG---------------------------------------PSPDF
+Scer_ENV11        LFNVPT-----ESML------------S-SFS-VAK-E-N-HSGGSLLDS
+Smik_ENV11        FFNVST-----ESLL------------S-SFS-LVK-K-I-HPRGSLLDS
+Skud_ENV11        FFNLPT-----ESLL------------S-SFS-LAK-E-I-NSQGSLLDS
+Suva_ENV11        FFNLPT-----ESLL------------S-SSS-LIK-E-S-HPPNSLLDS
+Kfar_ENV11        YGHHDTEGSGA------------------ISSNQFA-I-N-GKEKNKIDY
+Knag_ENV11        LGTDGGD--P-TDE--S---------ST--KTSDQS-D-L------LLNS
+Ncas_ENV11        FGSIENE--V-DDL--MNTSTINSEPVQENSLPNDY-F-N--A--SPLDT
+Ndai_ENV11        FGLPSTN--IYEEQI------------S-KSDMVST-L-R-NKDDTALDS
+                                                                  : 
+
+Ndai_VID22        IVDISNVNIESSIFGKINQFYKDLYSNPWQLDRFKSLCRDHL--N-D---
+Ncas_VID22        LVDLSHVDVSSSIFYKINSFYEEIKTDAWQWERYMSWCSHHIP-NDT---
+Knag_VID22        LIDLSQIDISPSIFGKINAFFMCMRRDTFQTELFETLCKKH---G-YT--
+Kfar_VID22        VVDVSNVNITSSIFHKINTFYDGIMADPWLLDRFKELSNEHL--D-E---
+Suva_VID22        LIDLSNTDISNTIFSKINSFLDDLQSNPWQLDKFRSLCGKF-----G---
+Skud_VID22        LIDLSDIDISNSIFFRINSFLDDLQSNSWQLDKFRSLCGKF-----G---
+Scer_VID22        LIDLSNIDISNSIFSRINSFLDDLQSNSWQLDKFRSLCEKF-----G---
+Lklu_VID22xENV11  IMSLENIEITNPLFDKIDRFKQELNADPWKLDKFHTLCKELL--D-N---
+Ecym_VID22xENV11  IMSLQHIRLTNPLLLQIQDFSNNSK-NEWQTS------------------
+Egos_VID22xENV11  VMSVEHVELSNPLLRQVLDFSQSSQ-DVWRSS------------------
+Scer_ENV11        LIDFSHIDLSSTILGKICCLIEEVNLNDSLKSDFLLYCQNYTQP-NCN--
+Smik_ENV11        LTDFSHVDISSSVLGKISCLIEEVKLNDSLKSDFLLYCQTYTQP-TCD--
+Skud_ENV11        LIDFSHLDISSTVLGKISSLIEEVNLRGSLKSDFLLYCKNYTQP-NCH--
+Suva_ENV11        LTDFSRLDISSTVLGKISSLMEEINISDSLRSDFILYCNDYTQS-NCN--
+Kfar_ENV11        LINLTHVNISSSIFGKINSFYRELLNDRDLYEKFMSSCKVLKIPF-NK--
+Knag_ENV11        MVDLSGLDMAGSLFNIINTMYDELLENPWILDLFHSKCKEQL--G-Y---
+Ncas_ENV11        LIDLSHVNIEGSIFHKINLFYEELFSNSWQLDRFKTLCGEHL--N-D---
+Ndai_ENV11        LIDLNRLDISLSIFEKISSFYEEINNDSWQMERFQATYSDIFGN-NNNNN
+                  : ..    :  .::  :  :           .                  
+
+Ndai_VID22        --------------PD-I-KLIPFDPSFYSTSEDSLRRFIQLRPVIKELD
+Ncas_VID22        ----------E------T-DVIPFNKIHYSTSIHSLQRFIKLRPVIESMD
+Knag_VID22        ----------N------S-GCIIFDSRYPSSATRFLKNFLDLQPVVMAMN
+Kfar_VID22        --------------SS-S-EFIFFNTAKYSTAELCLRRFMEIRPIIPLLE
+Suva_VID22        --------------FE-F-KCHRFNVSRYSTATISLQNFLNLRPIIEEYQ
+Skud_VID22        --------------FE-F-KCSKFDLTRYSTATVSLQTFLNLRPIIEEYQ
+Scer_VID22        --------------FE-F-VCSKFDLSRYSTATVSLQTFLNLRPIIEEYQ
+Lklu_VID22xENV11  --------------VD-F-EVITFDTTRYSTAVESLKRFLQLRPVIESME
+Ecym_VID22xENV11  --------------------ISKFDLANYSTLTESITSLLKLRPLLDILD
+Egos_VID22xENV11  --------------------LSKFDLSNYSTVTETITSLLKLRPLLDILE
+Scer_ENV11        ----------E----L-T-SILSCNCDRFSALKSILEKFANLVPFFKSIN
+Smik_ENV11        ----------E----L-T-SILSSSCDSFSSLKNVLEKFANLVPFFKSIN
+Skud_ENV11        ----------E----L-A-SMLSFNCDSFSALKNFLGNFANLVPFFKSIN
+Suva_ENV11        ----------E----L-T-SILSFDCGSYSALQSNLENFVNLVPFFKSIN
+Kfar_ENV11        -----------------NAT-RPFNKNFPSTSPSFLRQFLKFRQVVEKLE
+Knag_ENV11        --------------TEPQ-KPTCFDRTKYSTAETCLENFLHLKPVLFQID
+Ncas_ENV11        --------------PE-I-KLIPFDKFKYSSAEECLERFIDLRPVIELNE
+Ndai_ENV11        NNNNDDDDDGENDILN-Q-TKNPFNKKFYSSSIHCLKRFLRLRPLIENMT
+                                          .    *:    :  :  :  ..    
+
+Ndai_VID22        TN---MSSEKFTEIDFQIMEYMLEALESINKLILY-FASGFS-SNFNYVL
+Ncas_VID22        QF---LQNEKFTQLDFKIMEVTLSTLKSFNKLLLL-YSSSSS-MNFIHTI
+Knag_VID22        PY---LPNEKFTEMDMKLARTILSLLSPIFKIISK-FTSPDP-TSVVWLY
+Kfar_VID22        KN---VDHEKFSDIDYIIVEVLLDTIESINKLILF-FASNNS-LNFIYVL
+Suva_VID22        ST---IQIDKFNEIDFQIIDYLLTTLNSINRILEF-FTSSKH-LNFTYVL
+Skud_VID22        SI---IQIEKFNEIDFQIIEYLLTTLNSINRVLKF-FTSSKD-SNFTYVV
+Scer_VID22        SS---IQIEKFNEIDFQIIDYLLITLNSINRILKF-FTSSKS-LNFTYVL
+Lklu_VID22xENV11  EH---IVNQKFTNIDYQAMDFMLETLKSYDRMVLY-FSSNI--PNFQYML
+Ecym_VID22xENV11  P-------QPFTPGNYLDMVHFTDVVQSFNRAFQF-FTCAPQ-QTWQFTL
+Egos_VID22xENV11  P-------IPFTPANYLDMVHFTNVSQGFNRAFQF-FTSAPD-QTWIFSL
+Scer_ENV11        SH---LENESLSESDFRLINTVEETLRTFEQSIEY-FASSAP-LKFTHTL
+Smik_ENV11        SH---LENESLTGSDFRLIVAVEETLKTFEQAIEY-FASPAP-LKFTHTL
+Skud_ENV11        SH---LENESLTESDFRLIITIEETLKTFEQAIEY-FASSAP-LKFTHTL
+Suva_ENV11        SH---LKNESLTDSDFRLIINVEETLKTFEQTIEY-FASSAP-LKFTHTL
+Kfar_ENV11        GY---LHYEKFTSLDYDIVEIYEEFLSSINQLVAF-LVSPIP--NFQFVL
+Knag_ENV11        PLLHSVTRQPLQEADFETAECLLDLILSMNRLIRY-FSDSRSTFSFAHTV
+Ncas_ENV11        PR---LNSGRFTEVDFQIMSYMLETLQSINRLILY-FASGTS-GNFIYVL
+Ndai_ENV11        PF---LQNEIFSDLDFQIMKSTLLTLQSLNKLILLHYVSPSD-FNFINII
+                            :   :               : .           .     
+
+Ndai_VID22        FSVLHVEKHLSSTLNSVQFQ--R-LIKPFQAVLNNIQEIKKILLTDDMNL
+Ncas_VID22        PTLLAVEKHLIALLELSKVE---RFVKPIKTSLHKAQYHKGKLISSNLHS
+Knag_VID22        VFVCGLEKTLYGITEEMAYN---RFCGAFKVLLTATTKYKETLKTSPNTI
+Kfar_VID22        FALISIEKHLSSTLGSIQLR--R-LITPIEGVLDNIKKIKQELVSDEFVL
+Suva_VID22        FAIMSIEKHLLSTLSTLQFQ--R-LIAPFEAFLSKIQEFKTILFSDDMNL
+Skud_VID22        FAIMSIEKHLLSTLSTLQFQ--R-LIAPFEAFLSKIQEFKTILFSDDMNL
+Scer_VID22        FAIMSIEKHLLSTLGSLQFQ--R-LIAPFETFLSKIQEFKTILFSDDMNL
+Lklu_VID22xENV11  FSILTLEKHLKNKIYLMGSH--GVLTRSFSKVVNNITDHKRTMMADDMNI
+Ecym_VID22xENV11  LAVVALDENLSQTLEEVGSV--AKFSNHLENCVSSISRFKRRLLANDWYV
+Egos_VID22xENV11  LTVMALSEHLAQTLEEMGSR--SMFSNHLEDCVSSISKLRRRLMGRDLYV
+Scer_ENV11        VFIIKFELYLTEIIRSFKFT---KSKKPFEKILARLLKVKDLYLLDDVNL
+Smik_ENV11        AFIINFELYLKEIIQSSTFT---KFKKPFEKILSKILKVKEYYKLNDVNL
+Skud_ENV11        VFIINFEAYLTEVIQSSTFT---KSKKPFEKILSRISKLREFYLLDDVNL
+Suva_ENV11        AFIISLETYLAEIIQNSTFA---KSKRPFEKILSKISKVKELYLHNDICL
+Kfar_ENV11        LILVSIETYINNIMKSKDLKLIDKYGKPFEAFLKDIQLLKKNIVNDEDYR
+Knag_ENV11        PALMSLEMQICKMAESRPTP--RKLDCSLNRFSSTLHRCKRVLMQDKTVL
+Ncas_ENV11        FAILHVERHLASTISNVQFQ--R-LIKPFQAVLANIREVKQVLLTDDMNL
+Ndai_ENV11        PTILTIEAHINQQLEISKYN---RYKRPFLLVQNLIKSIKDRLLLNDTNL
+                    :  ..  :                  :          :          
+
+Ndai_VID22        LAMFLCPAVLFEREILEYAFKSISLSDIVELVTDNVFKLLRRFINLEAVD
+Ncas_VID22        MAAYLTPSLFIFKDTLREVFGSENAMIINASKPQFIVDLLMKYLDVETIQ
+Knag_VID22        IASFLCPQFLLNNNLLKELYGTDKTTQYLPQVAKSILHLLNHLLGTKGRR
+Kfar_VID22        LSMFLCPAVLFERDILEYAFKTVSLSEIVNKVSQTIFRSLNKFVNIETVE
+Suva_VID22        LAMFLCPAILFEREVLEYSFHTISLSEIVDKLSALIFTLLKRFLNLQTIG
+Skud_VID22        LAMFLCPAILFEREVLEYSFHTISLSEIVDKLSTLIFSLLKRFLNLHTIG
+Scer_VID22        LAMFLCPAILFEREVLEYSFHTISLSEIVDKLSTSIFSLLKRFLNLHTIG
+Lklu_VID22xENV11  IGLFFVPSVLFERDILELIFNTQSLTEIVEMIVKGIYSLLEKHLRLHVDQ
+Ecym_VID22xENV11  LASFLVPTTLFDDQLLEVLFDSDSLPTIVGRAVEMIYQLSKDYFDLVVAS
+Egos_VID22xENV11  LASFLVPTTLFDDQLLATVFGTESLPKIINSVVDMVYHILKDYFDAPVLS
+Scer_ENV11        IGAFLYPSIFQSKSLLNEIFGTTSVNKIVHNMTKIVLRYLKNFINITNFR
+Smik_ENV11        IGAFLYPSIFQSKNLLRKIFDTTSISKIVNKVTKIALRYLQNFVNVTNFR
+Skud_ENV11        IGAFLYPPVFQSKSLLTEIFNTTSTNEIVNKVTKIASRYLRNFIDIINFQ
+Suva_ENV11        IGAFLYPSIFQNKNLLIEIFDTTSINKIIDKVTNVALKYLQNFINITHFQ
+Kfar_ENV11        LALFYCPTTLYEKQLVRRTYQTVALQEVTEKINKMTLQVFEKFINLHSEP
+Knag_ENV11        VGLFLYPPSLFEREVLEYVYKTTSLSEIVTIVEQTILKLIRRFVDLQLVN
+Ncas_ENV11        LAMFLCPAVLFEREILEYAFKSISLSDIVDIVSTTVFDLLKRFIDVETLT
+Ndai_ENV11        LGSFLSPIIVSNESRLKTVFGTTDTGKIIKRVSNIAMKIVMKYVHVPDEE
+                  :. :  *  .   . :   : :                     .      
+
+Ndai_VID22        SPNFF-N--VREL----VGDDDD--GEE-----------------E-ADD
+Ncas_VID22        TVENGTEQ-----L-----------GTP-----------------IGNPM
+Knag_VID22        ADEVKNRQ-----S-----------GKT-----------------TLEDP
+Kfar_VID22        QNVVS--------------T--------ISTNG---------E-----ED
+Suva_VID22        NVNND-N--NPPNNN-HMN--------------------------N-NSD
+Skud_VID22        SVNNN-N--NIPTSN-DISRHND--GQGNNSN--ISNNNDNNDN-N-NND
+Scer_VID22        NVNNS-H--NTSNHS-NMNIHTD--NQTNNINNRSGNNSDNNDNEH-DND
+Lklu_VID22xENV11  SQEVG-F-------------M------------------------D-HSN
+Ecym_VID22xENV11  PYVDS---------------------------------------------
+Egos_VID22xENV11  TDTEN-T--ELDTSA-YR--STVAVASD-----------------QEEAA
+Scer_ENV11        SSNSG-GE-----S-----------GRN-----------------SGNNL
+Smik_ENV11        SHGND-KD-----N-----------SIN-----------------SGENL
+Skud_ENV11        SFDNG-KD-----N-----------ELS-----------------SGEEL
+Suva_ENV11        SSNNF-KE-----D-----------GPN-----------------FREKL
+Kfar_ENV11        HVLIE-EHISNPDKR----------TYD------------------N---
+Knag_ENV11        TAGDD---------------------------------------------
+Ncas_ENV11        QQNPR-M--NQLQMQMQLSAEHN--EQP-----------------H-ATS
+Ndai_ENV11        KLMEK-GEN----------------GTH-----------------DESET
+                                                                    
+
+Ndai_VID22        DD---DTNDGI----AQAT-------R-----QQQQQQQEEEE-------
+Ncas_VID22        VNENDKFFQLP----IGS---------------LKDLK------------
+Knag_VID22        LM-----EGLP----FKG---------------TTKLSV--GL------Q
+Kfar_VID22        AS---HLENSS----AQES-----SGQQ-----RNRVPYSELP-------
+Suva_VID22        NN---NVSSSN----TPASRLNIESNSGRSSASPAQQPHDNNNNLSFNSL
+Skud_VID22        ND---NLSNSH----TPASRINIDSNNGQRSVSPAQQPRDDNNNISFGSL
+Scer_VID22        ND---NHSNSN----TPASRIDIDPTGGENSVLPEQQPQNSNNNLSFGSL
+Lklu_VID22xENV11  TS---HSDNSF----AQL---------S-----LDRSALRDLG-------
+Ecym_VID22xENV11  --------------AVGD--------S-------AATEA-----------
+Egos_VID22xENV11  SS---CR--ASITAIVGD--------SSL---GAANGKA-----------
+Scer_ENV11        LS---DYEAIF----MKE---------------SRDVEL-----------
+Smik_ENV11        LS---GYEAIF----MKE---------------SQDIEL-----------
+Skud_ENV11        LP---GYENIF----MNE---------------SQDIRL-----------
+Suva_ENV11        IS---DYETIF----MKG---------------SQDIEF-----------
+Kfar_ENV11        KQGMDKYDAIA----LSD---------------SNRSES--GE-------
+Knag_ENV11        ------TASCE---------------------------------------
+Ncas_ENV11        FD---AINESS----IFA--------S-------GRENMENTS-------
+Ndai_ENV11        EH---EPEPFL----QLA---------------FGTIGR--SS-------
+                                                                    
+
+Ndai_VID22        -EINSERK--EELENILDNLLKKVIQDDLYEYLTTVNSIVPVSYKSYCEQ
+Ncas_VID22        ---FFN-DSSSPENVTLRSCFSTLVEKSLNTYILTLSSYLSNAYETYPEE
+Knag_VID22        ---DENIEM--PFFELLDEVLLEEIENDLEHFLFNAKQNCPNIYEAYFKT
+Kfar_VID22        -LFAKDVH--QAVSEETKDLLLKVIQEDLYDYLNTVNSVVPFSYKSYCER
+Suva_VID22        NDTHHLSD--STLSSEIDAIFLQTIQEDLYEYLSTVNSIVPISYRSYCEQ
+Skud_VID22        SGTHQLSD--STISNEIDTIFLQIIQEDLYEYLSTVNSIVPISYRSYCEQ
+Scer_VID22        SDTHHLSD--STISKEIDSIFLQIIQEDLYDYLSTVNSIVPISYRSYCEQ
+Lklu_VID22xENV11  -IVHDNSA--VENTEELEALIKEMIKEDMYSYLSTATAVIPASYRAFCTQ
+Ecym_VID22xENV11  --KQRASI--ITSPEELAVVIRDVIRDDIYAYLNIVNDVVPMAFQAHCSS
+Egos_VID22xENV11  --QSNAPL--TGISGELEEVIKDVIRGDLYAYLNVVNDVVPSWFQVHCST
+Scer_ENV11        ---LCNT--KLTAPLTEDSLLVQIIRDDLLRYVNRIAHELPNAYHDYLND
+Smik_ENV11        ---LCNV--MVTSPLSEDLLLAQIIREDLLSYINRITLELPSAYHDYLND
+Skud_ENV11        ---SCNI--TPTSPQSKDLLFGHIIRDDLLRYIDRITHELPDAYHSYLND
+Suva_ENV11        ---LNNA--KVTLPESEDLLFSQIIRDDLLRYISRITQELPNTYHDYLNE
+Kfar_ENV11        ---EEDPGH--PGINEMRKFLLNEINISTTEYLNSVNLNYPNILRAVVDQ
+Knag_ENV11        ----------ADIERGVNEQIMKITQADLYDYLSTINTIIPASYKRYSEQ
+Ncas_ENV11        -NMDTTSN--DAIKETVDTLLMKLIQEDLYEYLSTVNSIVPVSYKAFCDE
+Ndai_ENV11        ---EKSPK--TRLIDDVQECCQQLFERLFLAFLRNVQSEYPKGRKIFCEK
+                                           .     ::       .   .     
+
+Ndai_VID22        SGYIRE-NGRF---KKNLKVN--A-TEDNEQEN---EAEKNKNQDQDQGP
+Ncas_VID22        NNFIQEKNGQY---RKLFNNG--E-NNKDEE-------------------
+Knag_VID22        FKFERT-KAGF---RKV------------CD-------------------
+Kfar_VID22        SGFARD-NGIF---KRTVTFEDED-GVSITDE------------------
+Suva_VID22        SSFVRD-NGRF---KKRIITE--D-SILGELE------------------
+Skud_VID22        SSFVRD-SGRF---KKRIITE--D-SIIGELE------------------
+Scer_VID22        SNFIRD-SGRF---KKRIITE--D-SIIGELE------------------
+Lklu_VID22xENV11  TGFSKV-DGHY---ERDGP--------N--GK------------------
+Ecym_VID22xENV11  LGITKSVDGSE-S--AVY-K---------RN-------------------
+Egos_VID22xENV11  MGISKSTDEED-R--GQY-K---------RN-------------------
+Scer_ENV11        NDISFD-GSHF---TKHELSE--E-NDSNSG-------------------
+Smik_ENV11        NEISFD-GFHF---IKHELSE--E-STSDAV-------------------
+Skud_ENV11        NDISFD-GSHF---TKFELPE--E-SASDSG-------------------
+Suva_ENV11        NDISFD-GSYF---TKIELPE--E-NVSGSG-------------------
+Kfar_ENV11        NQVLKYKEN-SGKFFNS------------KT-------------------
+Knag_ENV11        SGYVRD-KGEF---KRQPPHG------SREL-------------------
+Ncas_ENV11        SGYVRY-NNRF---KKGKPLY--D-GESNADEQ---A-------RIIAEE
+Ndai_ENV11        NGYIPTNDGQY---RKVNASG--GANDYDDNDALGYEDSFSNALNDEDVH
+                                                                    
+
+Ndai_VID22        AQDIQSLNYVEELLDIHIPVCNAFWDQLLLN----DAG-VIIKILIKIMR
+Ncas_VID22        ---SAILNPIEELLNIHIPINENFWDIFTN--AQGNH-NLVVRVLFKIFS
+Knag_VID22        ---ERVLNPLEELLEIHIPVGKDFLNMYLS--G--DV-GLLFTVITKLIF
+Kfar_VID22        ----EEINFIDQLMDIHVPVCNAFWDQYLHN----NAG-MVIRILLKMIR
+Suva_VID22        ----QPMNFIEELLDIHVPVCSAFWDQFLDN----DAG-PIIRILFKMMQ
+Skud_VID22        ----QPLNFIEELLDIHVPVCNAFWTQYLDN----DAG-PIIRILFKIMQ
+Scer_VID22        ----QPMNFIEELLDIHVPVCNAFWSQYLDN----DAG-PIIRILFKIMQ
+Lklu_VID22xENV11  ----IQLNYIEELLDIHFPVCNTFWDEFTKS----NAG-YFVKTVMKILR
+Ecym_VID22xENV11  ---DTPLSSLDTFLDIHVPIARRFHLEKWN-----AL-GQSIRFVLKVLN
+Egos_VID22xENV11  ---DTPLSPLDVFLDIHVPVAKRFHSEKWN-----AL-RPVIRFLLKYVN
+Scer_ENV11        ---EWCLNPMEETFDIHIPISDSIWNNYIS--S--KNKIEVIDILLQLLS
+Smik_ENV11        ---EWRLNPMEETFDIHIPISDAIWNNYVS--G--QNRIEVIDMLIQLLS
+Skud_ENV11        ---EWRLNIMEETFDIHIPISDTIWNNYIN--D--DSKIVVIDTLLQLLS
+Suva_ENV11        ---EWRLNPMEEIFDIHIPISDTIWNNYMN--D--GNGIDIVDILLRLIS
+Kfar_ENV11        ---GKILNSIDELIYIHIPASNVFLQQFKFLEKDNNN-SIIFSFVLKYIQ
+Knag_ENV11        ---PGEIGQVDQLLDVYVPVSNAFWEHYLEF----DAG-PILRLLVKMMR
+Ncas_ENV11        LANVQPMNYIDELMDIHVPVCNAFWAQLLKH----DAG-VVIKILIRIMR
+Ndai_ENV11        TGSQNILDPIEELLTIHLPLCDIFWNQYLM--Y--NT-DPLFTIILNIVR
+                        :. ::  : ::.*    :                 .  : . . 
+
+Ndai_VID22        TQAASSIRSEYSFLKNFEPKAGE-DLYEQIVKIKLFNDQFVAGKVDFEMD
+Ncas_VID22        SISSSSVRREYSFLRDFKCNTDPK-LLQEIVKLRVFNSQFRIHEIDFNTN
+Knag_VID22        SESAFSKRGEYAFLSTTEKAQQEQ-SLERSLKIKLLNEQFALNKVDLEKA
+Kfar_VID22        TQSASSIRCEYSFLKDFVPKLGD-EFLEPVVKIKLFNEQFAAGKIDFEID
+Suva_VID22        CQSSSSIREEYSFLNDFIPRVHP-DLTQEIIKIKLFNDQFVASKVDYDLD
+Skud_VID22        CQSSSSIREEYSFLNNFAPKTHP-DLTQEIIKIKLFNDQFVASKVDYDLD
+Scer_VID22        CQSSSSIRGEYSFLNDFIPRVHP-DLTQEIIKIKLFNDQFVASKVDYDLD
+Lklu_VID22xENV11  SESASSIHSLQAFLRNYKSQVDT-DILEDVIRVKVFDEQFSSGRVEFDKD
+Ecym_VID22xENV11  SQPGSTISSANSFLADYKPISGD-DMLVEVLKVKSLDLQFNTTKIDFDHD
+Egos_VID22xENV11  SQPSATMNSAASFMATYRPIAEN-SMLREVLKVKSMDRQFDSTKIDFDHD
+Scer_ENV11        VNSTSSIRSELSSLTANQDFSTK--LSEETIKIKLLNSQFNLEKINFHSG
+Smik_ENV11        VNSASSIRSELFSLQKTNHIDPKNELCEEMIKIKLLNSQFNLEEINFHSG
+Skud_ENV11        INSASSIRSEFSFLQKASQDFNN-ELYEETIKIKLVNSQFNLEEIDFHSR
+Suva_ENV11        INSASSIRSDLSFLQKASQHFDS-ELYEERIKIKILNSQYNLENIDFNSG
+Kfar_ENV11        TLSASSLKSQFLFLNQYEPSNGNE-LFSEIIKLRIFNGQFNINKIDFERD
+Knag_ENV11        TYAVSSALAPYAYLSDFVPELGD-QFLEPMVKIKLFNEQYVVGKVDFEMD
+Ncas_ENV11        TQAASSVRSEYSFLKNFKPRAGA-DLFEQIVKIRVFNEQFVAGKVDFDLD
+Ndai_ENV11        SISSTSKRSEYAFLKNYRANISGS-ILEETIKVAVFDKQCAIGKVDFNSD
+                    .  :       :                :::  .: *    .:: .  
+
+Ndai_VID22        TLSTASQYT------------------------
+Ncas_VID22        NLDTLGLHLV-----------------------
+Knag_VID22        TLATLCNISRQ----------------------
+Kfar_VID22        TLPTACQYEKI----------------------
+Suva_VID22        TLQTASQYIP-----------------------
+Skud_VID22        TLQTASQYLP-----------------------
+Scer_VID22        TLQTASQYLP-----------------------
+Lklu_VID22xENV11  TLPTACQFA------------------------
+Ecym_VID22xENV11  NLSLVCKYASRPD-------VAIDHTT------
+Egos_VID22xENV11  SLPLVCKYASRTQSPAGEPSGSPAESSSESGAL
+Scer_ENV11        SIFDAC---------------------------
+Smik_ENV11        SIFDLC---------------------------
+Skud_ENV11        SFFHTC----Q----------------------
+Suva_ENV11        SIFDAC---------------------------
+Kfar_ENV11        SLNSICKYR-S----------------------
+Knag_ENV11        TLSTAAQYH------------------------
+Ncas_ENV11        TLSTASQYR------------------------
+Ndai_ENV11        TLTSLGNYI------------------------
+                  .:                               
+
+
+

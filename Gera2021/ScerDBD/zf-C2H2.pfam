@@ -1,0 +1,85 @@
+# STOCKHOLM 1.0
+
+Scer_NRG1_A          ....YICK...ICARGFTTSGHLARHNRI.H..
+#=GR Scer_NRG1_A  PP ....89**...*****************9.9..
+Scer_NRG1_B          ....HCCPy.kGCTQRFSRHDNCLQHYRT.H..
+#=GR Scer_NRG1_B  PP ....5799*.*******************.9..
+Scer_NRG2_A          ....HFCK...ICSTGFTTSGHLSRHNRI.H..
+#=GR Scer_NRG2_A  PP ....57**...*****************9.9..
+Scer_NRG2_B          ....HICPh.eGCGQRFSRHDNCNQHYRT.H..
+#=GR Scer_NRG2_B  PP ....679**.*******************.9..
+Scer_RPH1_A          ....HSCP...KCGKRFKRRDHVLQHLNK.-..
+#=GR Scer_RPH1_A  PP ....78**...***************985....
+Scer_RPH1_B          ....YICK...ECQRKFSSGHHLTRHKKSvH..
+#=GR Scer_RPH1_B  PP ....89**...*****************999..
+Scer_GIS1_A          ....HSCP...RCGKRFKRRDHVLQHLNK.-..
+#=GR Scer_GIS1_A  PP ....78**...***************985....
+Scer_GIS1_B          ....YICR...ECNRQFSSGHHLTRHKKSvH..
+#=GR Scer_GIS1_B  PP ....89**...*****************999..
+Scer_ACE2_A          ....FECLy.pNCNKVFKRRYNIRSHIQT.H..
+#=GR Scer_ACE2_A  PP ....78988.9******************.9..
+Scer_ACE2_B          ....YSCDf.pGCTKAFVRNHDLIRHKIS.H..
+#=GR Scer_ACE2_B  PP ....89***.****************999.9..
+Scer_SWI5_A          ....FECLf.pGCTKTFKRRYNIRSHIQT.H..
+#=GR Scer_SWI5_A  PP ....78999.9******************.9..
+Scer_SWI5_B          ....YSCDh.pGCDKAFVRNHDLIRHKKS.H..
+#=GR Scer_SWI5_B  PP ....89***.******************9.9..
+Scer_MET31_A         ....YSCA...KCQLKFSRSSDLRRHEKV.H..
+#=GR Scer_MET31_A PP ....99**...*****************9.9..
+Scer_MET31_B         ....HICS...NCGKGFARKDALKRHSN-.-t.
+#=GR Scer_MET31_B PP ....67**...***************66...6.
+Scer_MET32_A         ....FKCA...KCSLEFSRSSDLRRHEKT.H..
+#=GR Scer_MET32_A PP ....9***...******************.9..
+Scer_MET32_B         ...i--CP...QCGKGFARKDALKRHY--.-dt
+#=GR Scer_MET32_B PP ...6..**...***************8....56
+Scer_STP2_A          ....YICH...YCDARFRIRGYLTRHIKK.H..
+#=GR Scer_STP2_A  PP ....89**...******************.9..
+Scer_STP2_B          ....-VCT...QCGEHFSTSESW------.-ve
+#=GR Scer_STP2_B  PP .....6**...********9875........69
+Scer_STP1_A          ....FICH...YCDATFRIRGYLTRHIKK.H..
+#=GR Scer_STP1_A  PP ....88**...******************.9..
+Scer_STP1_B          ...h--CA...QCGEYFSTIENFV-----.-e.
+#=GR Scer_STP1_B  PP ...6..99...********99985.......8.
+Scer_TDA9_A          ....FLCH...ICTRGFVRQEHLKRHQRA.H..
+#=GR Scer_TDA9_A  PP ....56**...*****************9.9..
+Scer_TDA9_B          ...f-LCV...FCGRCFARRDLVLRHQHKlH..
+#=GR Scer_TDA9_B  PP ...5.6**...****************9999..
+Scer_RSF2_A          ....FLCP...TCTRGFVRQEHLKRHQHS.H..
+#=GR Scer_RSF2_A  PP ....56**...*****************9.9..
+Scer_RSF2_B          ylci----...FCGRCFARRDLVLRHQQKlH..
+#=GR Scer_RSF2_B  PP 7755.......6*****************99..
+Scer_MSN2_A          ....FACH...ICDKKFSRSDNLSQHIKT.H..
+#=GR Scer_MSN2_A  PP ....78**...******************.9..
+Scer_MSN2_B          ....FHCH...ICPKSFKRSEHLKRHVRSvH..
+#=GR Scer_MSN2_B  PP ....89**...*****************999..
+Scer_MSN4_A          ....FKCK...DCEKAFRRSEHLKRHIRSvH..
+#=GR Scer_MSN4_A  PP ....9***...******************99..
+Scer_MSN4_B          ....FACM...FCEKKFSRSDNLSQHLKT.H..
+#=GR Scer_MSN4_B  PP ....78**...******************.9..
+Scer_MIG2_A          ...h-HCAf.pGCGKSFSRSDELKRHMRT.H..
+#=GR Scer_MIG2_A  PP ...6.6777.89*****************.*..
+Scer_MIG2_B          ....FRCD...TCHRGFHRLEHKKRHLRT.H..
+#=GR Scer_MIG2_B  PP ....9***...******************.*..
+Scer_MIG3_A          ....HKCTv.qGCPKSFSRSDELKRHLRT.H..
+#=GR Scer_MIG3_A  PP ....79***.*******************.9..
+Scer_MIG3_B          ....FRCE...ICSRGFHRLEHKKRHGRT.H..
+#=GR Scer_MIG3_B  PP ....9***...******************.9..
+Scer_STP4_A          ....HKCP...ICQRGFARNNDLIRHKKR.H..
+#=GR Scer_STP4_A  PP ....79**...******************.9..
+Scer_STP4_B          ....-KCK...HCGLQFPN----------.-vd
+#=GR Scer_STP4_B  PP .....7**...******97............78
+Scer_STP3_A          ....HKCP...ICHRGFARNNDLLRHKKR.H..
+#=GR Scer_STP3_A  PP ....79**...******************.9..
+Scer_STP3_B          ....-RCK...HCGLKFEN----------.-vd
+#=GR Scer_STP3_B  PP .....7**...*****976............88
+Scer_USV1_A          ....FKCTgydGCTMSFTRAEHLARHIRK.H..
+#=GR Scer_USV1_A  PP ....89***********************.9..
+Scer_USV1_B          ....FQCP...ACLKFFSRVDNLKQHRESvH..
+#=GR Scer_USV1_B  PP ....9***...****************9988..
+Scer_RGM1_A          ....YRCVgypDCNMSFNRTEHLARHIRK.H..
+#=GR Scer_RGM1_A  PP ....99***********************.9..
+Scer_RGM1_B          ....FQCN...ICLKFFSRIDNLRQHQSSvH..
+#=GR Scer_RGM1_B  PP ....9***...*****************999..
+#=GC PP_cons         ....78**...*****************9.9..
+#=GC RF              ....xxxx...xxxxxxxxxxxxxxxxxx.x..
+//
